@@ -4,7 +4,7 @@ creating a new branch is quick
 hello
 add urltest.py
 cme.c is interactive env for c
-He's not  able to parser complicated  C programmer
+He's not  able to parser complicated  C grammer
 useage:
  e edit
  k compile
